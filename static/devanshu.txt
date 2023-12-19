@@ -1,0 +1,2 @@
+This is devanshu.txt file which you are looking at. Now we are learning flask and about static folder. We should not write any file in static folder which is not useful.
+Templates folder is used to have index.html type of files within our computer.
